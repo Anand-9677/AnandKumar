@@ -35,12 +35,12 @@ function About() {
             I'm a passionate Frontend Developer focused on creating responsive, user-friendly interfaces. Currently, I'm expanding my skillset by learning Backend Development and strengthening my problem-solving abilities through Data Structures and Algorithms (DSA).
           </p>
           <a 
-          href="#"
+          href="/CV.pdf"
           target='_blank'
           rel='noopener noreferrer'
           className='inline-block text-white py-3 px-8 rounded-full mt-5 font-bold text-lg transition duration-300 hover:scale-105'
           style={
-            {
+            { 
               background: 'linear-gradient(90deg, #6884f5, #60a5fa)',
               boxShadow: '0 0 2px #6884f5, 0 0 4px #6884f5, 0 0 6px #6884f5'
             }

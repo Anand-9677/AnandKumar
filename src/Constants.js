@@ -96,7 +96,7 @@ export const education = [
       description:
         "A responsive movie store web application built using React and Tailwind CSS, powered by The Movie Database (TMDb) API. It displays trending movies, detailed movie pages, detailed actor pages and supports real-time search. Integrated Redux for state management and Axios for API requests. The UI is clean and modern, optimized for fast performance and mobile responsiveness.",
       image: movieslogo,
-      tags: ["React JS", "Tailwind CSS", "Redux", "API"],
+      tags: ["React JS", "Tailwind CSS", "Redux", "Vercel", "TMDB API"],
       github: "https://github.com/Anand-9677/Movies-Store",
       webapp: "https://movies-store-self.vercel.app/",
     },
@@ -106,7 +106,7 @@ export const education = [
       description:
         "I developed a Contacts App using React.js, Tailwind CSS, and Firebase. The app allows users to add, view, and delete contacts, storing each contact's name and email securely in Firebase Realtime Database. It features a clean and responsive UI for a smooth user experience. Firebase handles the backend logic, including real-time data updates and storage. This project helped me understand CRUD operations and integration of cloud databases with React.",
       image: contactlogo,
-      tags: ["React JS", "Tailwind CSS", "Firebase"],
+      tags: ["React JS", "Tailwind CSS", "Firebase", "Vercel"],
       github: "https://github.com/Anand-9677/ContactsFirebaseApp",
       webapp: "https://contacts-firebase-app.vercel.app/",
     },
@@ -114,10 +114,10 @@ export const education = [
       id: 2,
       title: "Budget-Trip.com",
       description:
-        "Currently, in Construction. It will be online soon!! Budget-Trip.com is a full-stack travel website built using React and Tailwind CSS for a clean and responsive frontend experience. The backend is powered by Node.js and MongoDB, where custom APIs were developed to manage and serve travel packages. Users can explore various travel destinations, view curated budget-friendly packages, and get essential trip details. The project showcases integration of a custom backend with frontend routing, dynamic rendering, and data management using RESTful APIs.",
+        "Budget Trip is a responsive travel booking website where users can explore and book affordable holiday packages like Goa, Manali, etc. It features a clean React-based frontend with dynamic routing and real-time data. The backend is built using Node.js and Express, connected to MongoDB Atlas for managing package data. Admins can add new packages using Postman. EmailJS is integrated for handling user inquiries via email. The site is deployed with Vercel (frontend) and Render (backend), and uses a custom domain from GoDaddy. The platform supports both desktop and mobile users with a smooth user experience.",
       image: budgettriplogo,
-      tags: ["React JS", "Tailwind CSS", "Node JS", "MongoDb", "API"],
-      github: "#",
-      webapp: "#",
+      tags: ["React JS", "Tailwind CSS", "EmailJS", "Node JS", "Express JS",  "MongoDB Atlas", "Render", "Vercel"],
+      github: "https://github.com/Anand-9677/Budget-Trip.com",
+      webapp: "www.budget-trip.com",
     }
   ];  

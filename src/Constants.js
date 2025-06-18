@@ -118,6 +118,6 @@ export const education = [
       image: budgettriplogo,
       tags: ["React JS", "Tailwind CSS", "EmailJS", "Node JS", "Express JS",  "MongoDB Atlas", "Render", "Vercel"],
       github: "https://github.com/Anand-9677/Budget-Trip.com",
-      webapp: "www.budget-trip.com",
+      webapp: "https://www.budget-trip.com",
     }
-  ];  
+  ];

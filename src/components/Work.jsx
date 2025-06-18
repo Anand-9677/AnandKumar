@@ -8,6 +8,7 @@ function Work() {
   const handleOpenModal = (project) => {
     setSelectedProject(project);
   }
+  // eslint-disable-next-line no-unused-vars
   const handleCloseModal = (project) => {
     setSelectedProject(null);
   }
